@@ -528,3 +528,8 @@ span.search-info-upload {
 
 #feed-icons a.feed-icon {
 }
+
+#sidebar-first-wrapper .grid-inner {
+  background: #fff;
+  border: 1px solid #eee;
+}
