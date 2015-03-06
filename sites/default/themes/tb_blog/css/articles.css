@@ -232,3 +232,8 @@ span.submitted-date .month {
 /* Theme the teaser */
 .article-teaser {
 }
+
+.article > .views-field-field-image > .field-content {
+  width: 500px;
+  margin: 0 auto;
+}
