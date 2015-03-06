@@ -28,3 +28,7 @@ function utf8ToUrl($str){
   
   return $str;
 }
+
+function mylike_menu_alter(&$items) {
+  $items['poll']['access callback'] = FALSE;
+}

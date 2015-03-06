@@ -636,3 +636,7 @@ div.view-tags-list ul li a:hover {
 * Uses the class .lb-s {
 }
 */
+
+.block-poll-blocks > .block-inner > .block-content .links .first {
+  display: none;
+}
