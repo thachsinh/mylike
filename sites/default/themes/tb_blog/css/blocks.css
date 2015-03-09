@@ -640,3 +640,7 @@ div.view-tags-list ul li a:hover {
 .block-poll-blocks > .block-inner > .block-content .links .first {
   display: none;
 }
+
+.block-poll-blocks > .block-inner > .block-content .poll .title {
+  display: none;
+}
